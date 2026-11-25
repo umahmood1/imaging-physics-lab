@@ -1,0 +1,14 @@
+densenet121-res224-nih.onnx
+
+A chest X-ray classifier: DenseNet121 trained on the NIH ChestX-ray14 dataset, from the
+TorchXRayVision library (https://github.com/mlmed/torchxrayvision), weights "densenet121-res224-nih".
+
+License: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0).
+Citation: Cohen JP, Viviano JD, Bertin P, et al. TorchXRayVision: A library of chest X-ray datasets
+and models. Medical Imaging with Deep Learning, 2022. https://arxiv.org/abs/2111.00595
+
+This file holds the published weights in ONNX form. Its numbers were compared with the official
+PyTorch file: every tensor is either identical or equal after merging a convolution with the
+batch normalization that follows it.
+
+For teaching only. Not a medical device, and not for clinical use.

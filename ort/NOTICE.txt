@@ -1,0 +1,4 @@
+ONNX Runtime Web 1.31.1 (ort.wasm.min.js, ort-wasm-simd-threaded.mjs, ort-wasm-simd-threaded.wasm)
+
+Copyright (c) Microsoft Corporation. MIT License.
+https://github.com/microsoft/onnxruntime
